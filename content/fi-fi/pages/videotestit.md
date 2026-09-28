@@ -1,19 +1,14 @@
 ---
-title: Videotestit
+title: Videotestit ja ääni myös
 date: 2026-09-28
 draft: true
 layout: page
 ---
-Testataan videota
 
-<video controls width="200px">
 
-  <source src="https://loopsusercontent.com/videos/193865870249988623/322496176206947501/49BwGsi8fmTnuohrFm1XkhZJKCBagQTFwHZ4KlqtbidqXZYq7lYGzgHu9UYR.720p.mp4" type="video/mp4" />
-  <p>
-    Your browser doesn't support HTML video. Here is a
-    <a href="https://loopsusercontent.com/videos/193865870249988623/322496176206947501/49BwGsi8fmTnuohrFm1XkhZJKCBagQTFwHZ4KlqtbidqXZYq7lYGzgHu9UYR.720p.mp4" download="myVideo.mp4">link to the video</a> instead.
-  </p>
-</video>
+Youtube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rHVWBbad2fw?si=uQ91LxcabEruhSfO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <hr>
