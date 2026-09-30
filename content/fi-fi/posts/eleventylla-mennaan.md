@@ -7,3 +7,5 @@ Huhhuh, totta se on. Siirryn Eleventyyn. Irtisanoin juuri Shellitistä WordPress
 
 <a href="https://teuvovaisanen.fi/2026/09/30/sivustotyokalu-muuttuu-nakemiin-wordpress/ target="_blank">
 https://teuvovaisanen.fi/2026/09/30/sivustotyokalu-muuttuu-nakemiin-wordpress/ </a>
+
+Näkemiin !![WordPress logo](/assets/img/WordPress-logo-300x300-tr.png.webp)
